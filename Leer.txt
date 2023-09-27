@@ -1,0 +1,4 @@
+El sistema esta enfocado en el cliente, es decir
+este hara uso del sistema como un usuario.Por este motivo
+solo se mostrara las reservas que el usuario haya 
+realizado con su usuario.
